@@ -5,7 +5,10 @@ Super-Resolution Generative Adversarial Networks (SRGANs) offer a fix to these p
 
 
 Example of Anime video:
+
+
 https://user-images.githubusercontent.com/88615645/235993563-29e18e46-feda-4a77-ba57-a6a4cd17e6e3.mp4
+
 
 The image coloring project using Pixel-to-Pixel GAN and U-Net is an advanced computer vision and deep learning project aimed at adding color to grayscale images automatically. Here's a description of this project:
 
